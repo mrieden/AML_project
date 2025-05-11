@@ -1,0 +1,4 @@
+📌 Accuracy of Decision Tree: 0.9632
+✅ Accuracy of Stacking (DT, KNN, SVM + Logistic Regression): 0.9812
+✅ Accuracy using XGBoost: 0.9623
+✅ Accuracy of Bagging with 10 Trees: 0.9713
